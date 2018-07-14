@@ -13,6 +13,9 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
+
+**[中文翻译版本](https://github.com/JoeHetfield/You-Dont-Know-JS)**
+
 ## Titles
 
 * Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
